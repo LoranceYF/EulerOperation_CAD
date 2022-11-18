@@ -47,7 +47,7 @@ show()函数则可以用来展示一个模型（或者面、环）内的所有�
 ![01](https://user-images.githubusercontent.com/103091953/202642085-83e2a0e1-c620-442a-aa32-4b36a5c43d38.png)
 
 模型02（采用和01同样的底面，但是用了斜向的扫成）：
-![01](https://user-images.githubusercontent.com/103091953/202642102-f2ed126e-f9f4-4f97-94c1-ea0b4539b1a9.png)
+![02](https://user-images.githubusercontent.com/103091953/202644501-266434c9-6dc3-4cd6-8b0e-8952aa03cdc8.png)
 
 模型信息展示（show()函数）：
 ![03](https://user-images.githubusercontent.com/103091953/202642353-a6bfcc91-484b-466c-b20f-f05de9c38479.png)
