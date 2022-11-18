@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\schoolworks\grs1\cad\cad_proj\cad_proj\src\main.cpp(125): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\schoolworks\grs1\cad\cad_proj\cad_proj\src\main.cpp(528): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\schoolworks\grs1\cad\cad_proj\cad_proj\src\main.cpp(529): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\schoolworks\grs1\cad\cad_proj\cad_proj\src\main.cpp(559): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\schoolworks\grs1\cad\cad_proj\cad_proj\src\main.cpp(560): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\schoolworks\grs1\cad\cad_proj\cad_proj\src\main.cpp(565): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\schoolworks\grs1\cad\cad_proj\cad_proj\src\main.cpp(196): warning C4715: “getPrimitiveType”: 不是所有的控件路径都返回值
+  CAD_Proj.vcxproj -> D:\SchoolWorks\grs1\CAD\CAD_Proj\_output\Win32\Debug\bin\CAD_Proj.exe
